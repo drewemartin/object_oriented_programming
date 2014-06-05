@@ -30,11 +30,11 @@ end
 p = Person.new("bob")
 puts p.greet
 
-f = Student.new("gerry")
+f = Student.new("Cristina")
 puts f.greet
 puts f.learn
 
-d = Instructor.new("howard")
+d = Instructor.new("Chris")
 puts d.greet
 puts d.teach
 
